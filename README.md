@@ -4,7 +4,7 @@ In mathematics, the bisection method is a root-finding method that applies to an
 
 ## Python Implementation of Interval Bisection Search
 
-For this implementation, we have considered the convex function $`f(x) = x^2`$. You can change the convex functiont to whatever you like.
+For this implementation, we have considered the convex function `f(x) = x^2`. You can change the convex functiont to whatever you like.
 
 In this implementation, we have also counted the number of steps that will be needed to reach the minimum point.
 
